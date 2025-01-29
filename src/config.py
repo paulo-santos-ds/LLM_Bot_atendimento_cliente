@@ -1,7 +1,9 @@
 import os
+import pandas
 from dotenv import load_dotenv
 
 load_dotenv()
+
 
 DEEPSEEK_API_KEY = os.getenv('DEEPSEEK_API_KEY')
 WHATSAPP_API_KEY = os.getenv('WHATSAPP_API_KEY')
