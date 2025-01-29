@@ -16,7 +16,7 @@ Um chatbot baseado em Flask para WhatsApp que integra com a API DeepSeek para fo
 - Credenciais da API DeepSeek
 - Servidor com HTTPS habilitado (para webhook do Twilio)
 
-
+```bash
 Bot de atendimento whatsapp   # Nome do projeto (raiz)
 │
 ├── .env                      # Arquivo de variáveis de ambiente (credenciais)
@@ -44,7 +44,7 @@ Bot de atendimento whatsapp   # Nome do projeto (raiz)
 │   └── bot.log               # Arquivo de log do bot
 │
 └── requirements.txt          # Lista de dependências do projeto
-
+```
 
 
 ## 🔧 Instalação

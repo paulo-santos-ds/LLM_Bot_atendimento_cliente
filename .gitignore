@@ -1,4 +1,4 @@
-#ignorar arquivos no bash
+#ignorar arquivos ao commit git
 
 .env
 data
