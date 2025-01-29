@@ -1,0 +1,5 @@
+#ignorar arquivos no bash
+
+.env
+data
+logs
